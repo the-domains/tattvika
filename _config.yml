@@ -1,0 +1,41 @@
+typography_spectrum: 0.39152956251064225
+color:
+  brandStrength: 0.3881453683698495
+  lightness: 0.9840308157982545
+  saturation: 0.013063602679602729
+  rhythmicContrast: 0.9090573981985228
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+github: true
+opengraph:
+  appId: 'http://facebook.com/tattvika'
+  type: Fan Page
+layout_spectrum: 0.5739003531628353
+analytics:
+  google: tattvikacare@gmail.com
+  facebook: '20557569'
+author:
+  name: Tattvika
+  email: ''
+  url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8724ddd3-3293-49e4-8a78-ad4fef74f12a.png
+name: TATTVIKA
+url: 'http://tattvika.co'
+favicon: null
+title: TATTVIKA
+content: []
+coverPrefs:
+  filter: false
+description: Natural Skincare
+purpose:
+  - type: contact
+    url: 'mailto:tattvikacare@gmail.com'
+    label: Contact me
+  - type: external
+    url: 'http://facebook.com/tattvika'
+    label: Shop
