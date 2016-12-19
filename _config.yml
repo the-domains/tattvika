@@ -26,10 +26,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8724ddd3-3293-49e4-8a78-ad4fef74f12a.png
 name: TATTVIKA
 url: 'http://tattvika.co'
-navigation:
-  - name: About Us
-    id: af59051d-e0e8-4255-9060-a30dc35b5ef3
-    type: content
 favicon: null
 title: TATTVIKA
 content: []
