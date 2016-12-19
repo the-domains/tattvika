@@ -19,14 +19,15 @@ analytics:
   google: tattvikacare@gmail.com
   facebook: '20557569'
 author:
-  name: Tattvika
+  name: ''
   email: ''
   url: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8724ddd3-3293-49e4-8a78-ad4fef74f12a.png
 name: TATTVIKA
 url: 'http://tattvika.co'
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/957aa468-7a1c-47c5-be85-8333dd1cb63a.jpg
 title: TATTVIKA
 content: []
 coverPrefs:
